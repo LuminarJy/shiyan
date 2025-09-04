@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## EEG2Rep: Enhancing Self-supervised EEG Representation Through Informative Masked Inputs
 [![KDD 2024](https://img.shields.io/badge/KDD-2024-ff69b4.svg)](https://kdd2024.kdd.org/)
 ### ✨ **News:** This work has been accepted for publication in <span style="color:red;">**KDD24**</span>
@@ -69,6 +70,9 @@ If you find **EEG2Rep** useful for your research, please consider citing this pa
 
 ```
 ````
+=======
+# shiyan
+>>>>>>> 700093497ba2f076f37bc6953c30372aef6203f1
 =======
 # shiyan
 >>>>>>> 700093497ba2f076f37bc6953c30372aef6203f1
