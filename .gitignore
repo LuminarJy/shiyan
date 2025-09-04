@@ -1,0 +1,49 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files
+*.pth
+*.h5
+*.pkl
+*.pt
+*.model
+*.bin
+
+# Dataset files
+Dataset/data/*
+*.npy
+*.npz
+*.mat
+*.edf
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+*.whl
+
+summary/
+Results/

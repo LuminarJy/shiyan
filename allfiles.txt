@@ -1,0 +1,61 @@
+3f55f2165af090f3a850923365f5a1879161987c
+5d74ad73aaff207cdeeea37a4b9e4f659eb4de41
+700093497ba2f076f37bc6953c30372aef6203f1
+7a3624bb32cc6051d36c210c7dc97e02040307e2 
+b4029877e5220004a6d0bf32767170649f5442dd .gitignore
+ed85754d05c4b77428901c4d5be45a2ec03b3c0d Dataset
+87a316dd534d49a8f92a1ffe211cfcdf564c6b01 Dataset/data_loader.py
+1fe55fd60c8083b2e68e06600f2929a31c50f653 Models
+ecc663fe851dda65ce55213fe051a1f36657ea54 Models/Attention.py
+146052811b925d87b5456769e3fe5502825fb2a0 Models/DeformableAttention.py
+ec96d49c5c1a0dd67a71d299b3bbb8b88af4db0c Models/analysis.py
+3dd23785037c1885646013ca12b469464eb59e3b Models/hard_negative.py
+06b020a1947ca24fe8b912aee93634ce823adfe5 Models/loss.py
+31e5199e379228eb601ce7ce6fa97c3fb7ce3513 Models/model.py
+b21d910b0bcd10f23c78167afe92e37adc795b24 Models/optimizers.py
+bb124f573f6c513824db2a883662bb4261e783ca Models/utils.py
+82b6c9a19840baac0fd7bb6a1fd0efc4a5ebab1d README.md
+9bd41f4caacecdc12363178eddf644c2f8f2a480 Results
+6b2738cf71ff788458ed95fc4275064c331a26f3 Results/Rep-Learning
+cf780af68f0dbc932ba17f133e1dd3eaeb3905f0 Results/Rep-Learning/Dataset
+98ce2cfa92ef9e31bf69b4a26da2f6b1029c81eb Results/Rep-Learning/Dataset/STEW
+e26f21833b694b35aaa513fc0163627106754860 Results/Rep-Learning/Dataset/STEW/2025-09-02_15-07
+6377252ec30bedfcfd36fedd3eef57ddc3bf26cd Results/Rep-Learning/Dataset/STEW/2025-09-02_15-07/configuration.json
+c56efa4a65463b31a880b108c128ad5688a22901 Results/Rep-Learning/Dataset/STEW/2025-09-02_15-09
+4ae3e5dd2a937894556ccb0cb43938c7231caae0 Results/Rep-Learning/Dataset/STEW/2025-09-02_15-09/configuration.json
+c4399e1a8f959a0a8789648ad5a490f532d9407f Results/Rep-Learning/Dataset/STEW/2025-09-02_15-11
+4f0e800193b023117c79e77bbad9a04477449637 Results/Rep-Learning/Dataset/STEW/2025-09-02_15-11/configuration.json
+597188f5320ae92b3da852412317e81ad569e37e Results/Rep-Learning/Dataset/STEW/2025-09-02_15-26
+ffee5a68310734dad8ab9bddc8c036965d924972 Results/Rep-Learning/Dataset/STEW/2025-09-02_15-26/configuration.json
+398b4717e7fbef54a83fe1bb7eddb523f443e093 Results/Rep-Learning/Dataset/STEW/2025-09-02_15-38
+55443f253988d334bb6797c8c4df339bbb62fbd5 Results/Rep-Learning/Dataset/STEW/2025-09-02_15-38/configuration.json
+9bb53e1359355f0897c3a990c349b8f36a77dc44 Results/Rep-Learning/Dataset/STEW/2025-09-02_16-07
+c92ca8c93913a87259f37eef6900400b5130ae68 Results/Rep-Learning/Dataset/STEW/2025-09-02_16-07/Rep-Learning.csv
+a080799cc8f0d674c7072065f0f50433b79c18c7 Results/Rep-Learning/Dataset/STEW/2025-09-02_16-07/configuration.json
+3ac99ed94378f8ba12e34489c7b69692f476a844 Results/Rep-Learning/Dataset/STEW/2025-09-02_16-07/linear_result.txt
+b32e77a9140d09a1496a50ce81d2c0f940255449 Results/Rep-Learning/Dataset/STEW/2025-09-03_10-56
+1d67449d4152ba6faf0a3cda24aec0feeb4f32e8 Results/Rep-Learning/Dataset/STEW/2025-09-03_10-56/Rep-Learning.csv
+5774f91338dea05ff066a05b90485ef3d3e23e6c Results/Rep-Learning/Dataset/STEW/2025-09-03_10-56/configuration.json
+ce9bdf77d2dbc9ae3183ba737ee7ce1431399df0 Results/Rep-Learning/Dataset/STEW/2025-09-03_10-56/linear_result.txt
+6f941effa3cb4b29c1943cb32c7b65a9d3402671 SSL.pdf
+ac91caa46adafb2508b75f6e3d6ad97c27b9988e eval.py
+0f25e139bca81f7f1d1ad95477608f21d26e7d01 main.py
+ea831c017697cd13c63e7150354d3927b2e32e1d running.py
+3c9bfea755f740edb6c1d348d7a8add564fee7a4 summary
+88be3faf24f7e73642a87c4c699f9771d64cdcb8 summary/events.out.tfevents.1756796988.BCI.17156.0
+52827ff0e40c5a8bbf148a137f6badc78cd0fb79 summary/events.out.tfevents.1756797110.BCI.11904.0
+e62eee6a46727f25a400eb3f87c5e4b787657431 summary/events.out.tfevents.1756797986.BCI.22212.0
+631100a484e52ccd5807061831757eb8b2f047ca summary/events.out.tfevents.1756798735.BCI.16508.0
+da20620096d6ddc76579b2b6883dededb3662e31 summary/events.out.tfevents.1756800431.BCI.4932.0
+0d646714c54dfafc4ea0876d8b0e0332fc4e6bf8 summary/events.out.tfevents.1756809308.BCI.4932.1
+4b83ae72e3dd47f588b334b4811f3fc5ea9c0fff summary/events.out.tfevents.1756868205.BCI.16656.0
+501e7e464acc9a98eec2c2ea829147dc757ed5f2 summary/events.out.tfevents.1756877784.BCI.16656.1
+bf50f82e64a2eb43bd28c53bf800e1742edee7c8 torch-1.9.1+cu111-cp38-cp38-win_amd64.whl
+dff56a2da4ebcd76f2ea15c494cc1b20588b13eb torchaudio-0.9.1-cp38-cp38-win_amd64.whl
+d545bfc742f12dd358c1d19692d308c920d4d625 torchvision-0.10.1+cu111-cp38-cp38-win_amd64.whl
+6369ea72a1b3f3fbc79b60a6ec4796672edbbe3e trainer.py
+4bb3aa86b2b9f94df5cad4e35be37a7cfe55d0a2 utils.py
+1c74ad00d0aae887855249e0e26b3e05a2d61564 
+62670bcd531e2a378a9128c2ae73cc53e89d3a6f README.md
+335d2f9466def1e4add9709fb7623315d2edf616 
+387ca7cbf44a1be1af5d0ca30f0928ad6d80fcff README.md
